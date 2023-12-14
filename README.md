@@ -1,2 +1,2 @@
 # machine_learning_basics
-Contain python implementations of basic ML algorithms for learning purposes. 
+This project contains a number of basic ML algorithms implemented using Numpy and basic Python functions to highlight the inner-working of the algorithm for learning purposes. I followed the tutorials by Patrick Loeber on Youtube. The same algorithms can be found in scikit-learn (with more bells and whistles). So you can compare the results provided by the implementations and those from scikit-learn. Additional algorithms are welcome. Enjoy!
